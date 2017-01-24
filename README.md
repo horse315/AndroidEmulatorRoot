@@ -8,6 +8,6 @@ Obtaining temporarty root on AVD device
 * *2-start-root-remount.bat* makes the hack for Android 7, change **emulator-5554** to instance started before and run! script)
 * *3-4pda.bat* change **emulator-5554** to instance started before and **arch** variable to yours value. Run!
 
-> Issues are covered in original link.
+> Issues are covered in original link. PIE error for x86 already fixed and origin *su* file was remaned to *su.no_pie*
 
 * Now start SuperSu and follow instructions, but ***do not restart***! Arter SuperSu installed RootExplorer can be used for your dirty deals.
